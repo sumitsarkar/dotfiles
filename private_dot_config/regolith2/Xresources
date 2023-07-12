@@ -1,0 +1,5 @@
+regolith.look.path: /usr/share/regolith-look/blackhole
+gnome.terminal.font: JetBrainsMono Nerd Font 10
+gtk.document_font_name: Ubuntu Light 11
+gtk.font_name: Ubuntu Light 11
+gtk.monospace_font_name: JetBrainsMono Nerd Font 10
